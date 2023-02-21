@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Aan-Khowaja
-- 👀 I’m interested in buiding apps
-- 🌱 I’m currently learning app development with flutter
+- 👀 I’m interested in buiding AI Apps
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ... via email: aliaankhowaja@gmail.com
 
